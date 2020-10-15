@@ -10,3 +10,5 @@ cover_image: ../../static/images/uploads/sun-3713835_1920.jpg
 description: I am trying some image uploads.
 ---
 And I also write something down.
+
+![pumpkin patch](../../static/images/uploads/karalina-s-8v7ymfp8-0m-unsplash.jpg "A pumpkin pattern")
